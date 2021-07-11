@@ -1,5 +1,5 @@
-# Welcome to GitHub Desktop!
+Random image generator using picsum api 
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+Output :-
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+https://siddhesh172004.github.io/unsplash-api-for-random-image-generator/
